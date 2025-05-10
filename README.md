@@ -91,6 +91,12 @@ Witout the extra Collum from Keys [SQLite3 schema](https://github.com/5463Fi-OpS
 - Over Add you can Add Member/Keys and Verify a key. [This way is not recommended at this time add this data as Insert in the DB]
 - Exit is a second way to close this Programm
 
+# Notes
+
+The sceenshots are from MacOS so it's prettier.
+
+There are also a few good features missing that I will add to the Isssue tracker soon
+
 # Contributing
 
 Contributions are highly welcome. 
