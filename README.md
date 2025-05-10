@@ -1,6 +1,6 @@
 # Key Management System
-### For what purpose is this Softweare ?
-- Manage the possession of keys in a local Softweare
+### For what purpose is this Software ?
+- Manage the possession of keys in a local Software
 
 - have an overview of the deposit that has been deposited
 
