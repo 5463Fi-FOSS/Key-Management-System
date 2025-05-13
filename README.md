@@ -22,7 +22,7 @@ So far this Project is not Compiled in a Installationable Medium like an .exe or
 ### current way to use it!
 For using this Project you need install [python](https://www.python.org) (3.13) 
 
-"I just tried to install python for the first time on windows in the installer you have to set the two checkmarks at the bottom of the first page otherwise it won't work properly" 
+>I just tried to install python for the first time on windows in the installer you have to set the two checkmarks at the bottom of the first page otherwise it won't work properly
 
 on your System and Install the dependencies:
 
