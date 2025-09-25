@@ -5,8 +5,36 @@
 
 differently from transpoder e.g. DOM Transpoder or any other Digital Locks with NFC Tags, physical Keys has mostly no unique identifier. 
 
+The Advantage is you can identify every key and can see the all events and everyone can scan the tag and see who it belongs to and what it is.
+
 ## decision
 #### Unique Identifier
+
+**1. Idea: key fob with a QR Tag / barcode / NFC Tag**
+
+No matter of the tecnical implementation there is one big disadvantage what did you do when one person gets several keys, does the Person then also have several key fobs on his key ring? 
+=> Of course you can rebook several keys on one key fob. But this is time-consuming, complicated and absolutely unpractical.
+
+**2. Idea: engraved identifier on the key**
+
+There is of course the possibility to engrave a Number/QR Code or a Data-Matrix
+The disadvantage is quite clearly that you need a Laser engraver or CNC machine. 
+It might be also possible to engrave nubers by hand.
+Thise whole idea requires a lot of time and craftmenship and its for normal use also unpractical.
+
+**2. final idea: non-metal NFC-Tags**
+Unfortunately nothing works without setbacks.
+I Ordert 5mmx5mm NFC Tags they works suprisingly good, then I wanted to test the tag lying on a Key and well physics wasn't on my side.
+Because the Metal of the key interferes with radio waves and nothing works.
+
+But there is a Solution non-metal NFC-Tags there is a feritte layer to shield the NFC Tag and in theory work on a Metal key.
+
+To attach the Tag on the key is my best idea to use epoxy resin. 
+
+
+> Currently i waiting on an Order and then it coninues the work
+>> **More much more is are comming soon!!!**
+---
 
 #### Pictures
 
