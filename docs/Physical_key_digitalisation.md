@@ -7,6 +7,8 @@ differently from transpoder e.g. DOM Transpoder or any other Digital Locks with 
 
 The Advantage is you can identify every key and can see the all events and everyone can scan the tag and see who it belongs to and what it is.
 
+Images are a little time-consuming, but then you not only have a number from the key, but also a photo. 
+
 ## decision
 #### Unique Identifier
 
@@ -36,7 +38,7 @@ To attach the Tag on the key is my best idea to use epoxy resin.
 >> **More much more is are comming soon!!!**
 ---
 
-#### Pictures
+#### Images
 
 In a office enviroment there is often a Printer with a flatbed scanner. So the first idea was it to use it, with a scale beside the key.
 
